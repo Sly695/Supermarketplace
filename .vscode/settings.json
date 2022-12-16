@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "crud",
+            "group": "localhost",
+            "database": "${workspaceFolder:marketProjet}/app.js"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
